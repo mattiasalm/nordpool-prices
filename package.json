@@ -1,6 +1,6 @@
 {
   "name": "nordpool-prices",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fetch prices from Nordpool",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
